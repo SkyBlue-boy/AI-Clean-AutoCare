@@ -22,4 +22,4 @@ $ python3 custom.py --dataset='dataset' --weights=coco # it will download coco w
   
 - My code(bird poop, dead bug data 학습한 모델)
   
-  ex) mask_rcnn_bird poop_0001.h5
+  ex) mask_rcnn_birdpoop_0010.h5
