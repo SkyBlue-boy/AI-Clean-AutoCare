@@ -4,7 +4,9 @@
 ## AI를 이용한 맞춤 노터치 자동세차 서비스
 
 - Transfer learning을 위한 coco weights download 하는 법(250MB라서 github에 직접 업로드 불가능)
--->
+  
+---->
+
 - source code에 나와 있는 방법으로 coco weights download [mask_rcnn_coco.h5]
 $ python3 custom.py --dataset='dataset' --weights=coco # it will download coco weights if you don't have them
 
